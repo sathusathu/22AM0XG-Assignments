@@ -66,9 +66,8 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> ![Uploading image.png…]()
+> ![Screenshot 2024-09-30 181402](https://github.com/user-attachments/assets/68ecb853-69c0-4591-8283-0350901e86a8)
 
->
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
