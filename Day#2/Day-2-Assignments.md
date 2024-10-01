@@ -31,7 +31,8 @@
 
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
-> Add your answer here!
+> <img width="716" alt="image" src="https://github.com/user-attachments/assets/6a283807-99c7-4df1-8dac-8f9ddc577a8c">
+
 
 ***
 
